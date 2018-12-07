@@ -1,2 +1,2 @@
-# api-starter
-Start learning how to build an API by adding an endpoint to the starter project.
+# API Starter
+Learn how to build an API by adding an endpoint to the starter project.
